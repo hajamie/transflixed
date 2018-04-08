@@ -1,0 +1,11 @@
+#onOff {
+  width: 100px;
+  height: 100px;
+  background-image: url(images/statusOff.png);
+  background-position: center center;
+  background-size: contain;
+}
+
+#onOff.on {
+  background-image: url(images/statusOn.png);
+}

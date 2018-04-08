@@ -1,0 +1,7 @@
+#transflixedProgress {
+  margin: 20px;
+  width: 400px;
+  height: 8px;
+  position: fixed;
+  z-index: 1;
+}
